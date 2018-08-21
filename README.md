@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # mitsuba-shapenet
 
 Most ShapeNet models are exported from SketchUp with double-faces. In original Mitsuba renderer without back-face culling, there are black pixels when intersecting the 'back side' face. There are also some categories, such as cars, are not double-sided. Some of them only have flipped faces, which makes backface culling not work.
@@ -51,4 +50,4 @@ For compilation, usage, and a full plugin reference, please see the [official do
 ## Releases and scenes
 
 Pre-built binaries, as well as example scenes, are available on the [Mitsuba website](http://mitsuba-renderer.org/download.html).
->>>>>>> 450a2b8a258f09ec7e0824861e2306340ccbb3f4
+
