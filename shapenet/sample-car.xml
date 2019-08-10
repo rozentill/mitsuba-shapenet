@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<scene version="0.5.0">
+<scene version="0.6.0">
 	
     <shape type="shapenet">
         <string name="filename" value="02958343/1a0bc9ab92c915167ae33d942430658c/model.obj" />
